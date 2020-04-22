@@ -1,2 +1,2 @@
 # data_ethics
-Cambridge Analytics stude case presentation  
+Cambridge Analytics case study presentation  
